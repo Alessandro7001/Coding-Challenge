@@ -1,0 +1,77 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.quadrato{
+  height: 700px;
+  width: 800px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#titolo{
+  text-align: center;
+  color: lime;
+  font-family: 'Roboto', sans-serif;
+}
+
+.menu{
+  width: 100%;
+  height: 50px;
+  background: lime;
+  text-align: center;
+}
+
+.tasti{
+  margin-top: 15px;
+}
+
+
+h2{
+  display: inline-block;
+  color: white;
+}
+
+.sottotitolo{
+  display: block;
+  color: white;
+  font-size: 20px;
+}
+
+.carica{
+  color: white;
+  font-size: 20px;
+}
+
+.carica-1{
+  background: orange;
+  width: 45%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.carica-2{
+  background: lime;
+  width: 70%;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.carica-3{
+  background: red;
+  width: 20%;
+  height: 30px;
+  border-radius: 5px;
+}
